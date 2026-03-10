@@ -9,20 +9,6 @@ Cursando MBA em IA e Big Data pela **USP/ICMC**
 
 ---
 
-## Stack
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-0d1117?style=flat-square&logo=Keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=3B82F6)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0d1117?style=flat-square&logo=microsoftazure&logoColor=60A5FA)
-![AI Foundry](https://img.shields.io/badge/AI_Foundry-0d1117?style=flat-square&logo=microsoft&logoColor=60A5FA)
-
----
-
 ## Projetos em Destaque
 
 <table>
