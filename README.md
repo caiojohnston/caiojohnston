@@ -44,7 +44,8 @@ Assistente conversacional projetado para responder perguntas sobre o clima de Be
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaioJohnston&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaioJohnston&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioJohnston&theme=github_dark)
 
 ---
 
