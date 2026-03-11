@@ -3,6 +3,7 @@
 **Data Scientist · GenAI · Agentic AI**
 
 Cientista de Dados com passagem pela Accenture, IBM e Vale. Atualmente liderando projetos com GenAI na Accenture. Apaixonado por resolver problemas reais com IA.
+O intuito deste GitHub é reunir projetos pessoais que desenvolvo no meu tempo livre, sozinho ou com amigos.
 
 Bacharel em Ciência da Computação pelo **CESUPA**  
 Cursando MBA em IA e Big Data pela **USP/ICMC**
