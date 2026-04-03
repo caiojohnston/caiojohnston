@@ -14,9 +14,9 @@ Cursando MBA em IA e Big Data pela **USP/ICMC**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<h3>epidemia</h3>
 
-### epidemia
 ![](https://img.shields.io/badge/Projeto_atual-0d1117?style=flat-square&color=3B82F6)
 
 Sistema multiagente autônomo para vigilância epidemiológica do Brasil, integrando dados públicos do SUS, DATASUS e SINAN com Agentic RAG.
@@ -24,19 +24,28 @@ Sistema multiagente autônomo para vigilância epidemiológica do Brasil, integr
 `LangGraph` `RAG` `AI Agents`
 
 [Ver repositorio →](https://github.com/CaioJohnston/epidemia)
-
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<h3>rag-assistant-agent</h3>
 
-### rag-assistant-agent
 ![](https://img.shields.io/badge/Ultimo_projeto_trabalhado-0d1117?style=flat-square&color=3B82F6)
 
-Assistente conversacional projetado para responder perguntas sobre o clima de Belém, PA. Baseado agentes orquestrados via Azure AI Foundry, com interface em Streamlit.
+Assistente conversacional projetado para responder perguntas sobre o clima de Belém, PA. Agentes orquestrados via Azure AI Foundry, com interface em Streamlit.
 
-`LangGraph` `Azure` `AI Foundry` `AI Search` `Docker` `Streamlit`
+`LangGraph` `AI Foundry` `AI Search`
 
 [Ver repositorio →](https://github.com/CaioJohnston/rag-assistant-agent)
+</td>
+<td width="33%" valign="top">
+<h3>uteis</h3>
 
+![](https://img.shields.io/badge/Vale_a_pena_conferir-0d1117?style=flat-square&color=3B82F6)
+
+Uma coleção de aplicações, scripts, ferramentas e experimentos. Construídos para uso próprio. Compartilhados porque podem ser úteis.
+
+`Next.js` `TypeScript` `Tailwind`
+
+[Ver repositorio →](https://github.com/CaioJohnston/uteis)
 </td>
 </tr>
 </table>
@@ -44,9 +53,12 @@ Assistente conversacional projetado para responder perguntas sobre o clima de Be
 ---
 
 ## GitHub Stats
-
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=CaioJohnston&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioJohnston&theme=github_dark)
+
+</div>
 
 ---
 
