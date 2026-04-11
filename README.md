@@ -23,7 +23,7 @@ Sistema multiagente autônomo para vigilância epidemiológica do Brasil, integr
 
 `LangGraph` `RAG` `AI Agents`
 
-[Ver repositorio →](https://github.com/CaioJohnston/epidemia)
+[Ver repositorio →](https://github.com/caiojohnston/epidemia)
 </td>
 <td width="33%" valign="top">
 <h3>rag-assistant-agent</h3>
@@ -34,7 +34,7 @@ Assistente conversacional projetado para responder perguntas sobre o clima de Be
 
 `LangGraph` `AI Foundry` `AI Search`
 
-[Ver repositorio →](https://github.com/CaioJohnston/rag-assistant-agent)
+[Ver repositorio →](https://github.com/caiojohnston/rag-assistant-agent)
 </td>
 <td width="33%" valign="top">
 <h3>uteis</h3>
@@ -45,7 +45,7 @@ Uma coleção de aplicações, scripts, ferramentas e experimentos. Construídos
 
 `Next.js` `TypeScript` `Tailwind`
 
-[Ver repositorio →](https://github.com/CaioJohnston/uteis)
+[Ver repositorio →](https://github.com/caiojohnston/uteis)
 </td>
 </tr>
 </table>
