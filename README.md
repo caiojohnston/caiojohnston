@@ -55,8 +55,8 @@ Uma coleção de aplicações, scripts, ferramentas e experimentos. Construídos
 ## GitHub Stats
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaioJohnston&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioJohnston&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=caiojohnston&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiojohnston&theme=github_dark)
 
 </div>
 
