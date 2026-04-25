@@ -32,11 +32,11 @@ Sistema multiagente autônomo para vigilância epidemiológica do Brasil, integr
 
 ![](https://img.shields.io/badge/Ultimo_projeto_trabalhado-0d1117?style=flat-square&color=3B82F6)
 
-Assistente conversacional projetado para responder perguntas sobre o clima de Belém, PA. Agentes orquestrados via Azure AI Foundry, com interface em Streamlit.
+MCP Server para 70 fontes de dados públicas brasileiras.
 
-`LangGraph` `AI Foundry` `AI Search`
+`MCP` `AI Agents` `Web Scraping`
 
-[Ver repositorio →](https://github.com/caiojohnston/rag-assistant-agent)
+[Ver repositorio →](https://github.com/jxnxts/mcp-brasil)
 </td>
 <td width="33%" valign="top">
 <h3>uteis</h3>
