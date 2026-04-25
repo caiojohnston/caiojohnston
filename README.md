@@ -28,7 +28,7 @@ Sistema multiagente autônomo para vigilância epidemiológica do Brasil, integr
 [Ver repositorio →](https://github.com/caiojohnston/epidemia)
 </td>
 <td width="33%" valign="top">
-<h3>rag-assistant-agent</h3>
+<h3>mcp-brasil</h3>
 
 ![](https://img.shields.io/badge/Ultimo_projeto_trabalhado-0d1117?style=flat-square&color=3B82F6)
 
