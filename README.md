@@ -1,5 +1,3 @@
-# Caio Johnston
-
 **Data Scientist · Gen AI · Agentic AI · Deep Learning**
 
 Cientista de Dados com passagem pela Accenture, IBM e Vale. Atualmente liderando projetos na Accenture. Gosto de aplicar IA na resolução de problemas reais.
