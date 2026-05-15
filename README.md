@@ -10,6 +10,7 @@ Cursando MBA em IA e Big Data pela **USP/ICMC**
 
 **Agora tenho um site [caiojohnston.com📎](https://www.caiojohnston.com/)**
 
+
 ## Projetos em Destaque
 
 <table>
@@ -56,6 +57,7 @@ Uma coleção de aplicações, scripts, ferramentas e experimentos. Construídos
 </tr>
 </table>
 
+
 ## Contribuições
 
 <table>
@@ -80,6 +82,7 @@ MCP Server para 70 fontes de dados públicas brasileiras.
 **Hybrid Artificial Intelligence Model for Detecting Signs of Delayed Child Development**  
 *Intelligent Systems, 34th Brazilian Conference — BRACIS 2024*  
 [ver paper →](https://link.springer.com/chapter/10.1007/978-3-031-79038-6_14)
+
 
 ## Contato
 
